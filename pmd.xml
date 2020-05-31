@@ -26,6 +26,7 @@
   <rule ref="rulesets/java/unnecessary.xml">
     <!-- Ignores readability concerns. Very bad.-->
     <exclude name="UselessParentheses"/>
+     <exclude name="Yajurved"/>
   </rule>
   <rule ref="rulesets/java/unusedcode.xml"/>
 </ruleset>
